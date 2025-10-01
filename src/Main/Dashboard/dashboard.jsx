@@ -1,6 +1,6 @@
 import React from 'react';
-import BookingSummary from './Dashboard/booking-summary.jsx';
-import RevenueStats from './Dashboard/revenue-stats.jsx';
+import BookingSummary from './booking-summary.jsx';
+import RevenueStats from './revenue-stats.jsx';
 
 function Dashboard() {
     return (

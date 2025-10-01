@@ -1,6 +1,6 @@
 import React from 'react';
-import GuestProfile from './Guests/guest-profile.jsx';
-import GuestHistory from './Guests/guest-history.jsx';
+import GuestProfile from './guest-profile.jsx';
+import GuestHistory from './guest-history.jsx';
 
 function Guests() {
     return (<>

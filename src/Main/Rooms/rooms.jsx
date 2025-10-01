@@ -1,6 +1,6 @@
 import React from 'react';
-import RoomList from './Rooms/room-list.jsx';
-import RoomDetails from './Rooms/room-details.jsx';
+import RoomList from './room-list.jsx';
+import RoomDetails from './room-details.jsx';
 
 function Rooms() {
     return (
