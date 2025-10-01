@@ -2,9 +2,9 @@ import React from 'react';
 import './App.css';
 import Header from './header.jsx';
 import Footer from './footer.jsx';
-import Guests from './Mane/guests.jsx';
-import Rooms from './Mane/rooms.jsx';
-import Dashboard from './Mane/dashboard.jsx';
+import Guests from './Main/guests.jsx';
+import Rooms from './Main/rooms.jsx';
+import Dashboard from './Main/dashboard.jsx';
 
 function App() {
     return (
